@@ -56,9 +56,9 @@ classdef zj_1915000475_exported < matlab.apps.AppBase
 
         % Code that executes after component creation
         function startupFcn(app)
-            app.Button_sq.Icon = 'D:\Users\18225\Documents\WORKS\计算机辅助分析\大作业\Icons\平方.png';
-            app.Button_sqrt.Icon = 'D:\Users\18225\Documents\WORKS\计算机辅助分析\大作业\Icons\sqrt.png';
-            app.Button_tuiwei.Icon = 'D:\Users\18225\Documents\WORKS\计算机辅助分析\大作业\Icons\退位.png';
+            app.Button_sq.Icon = '\Icons\平方.png';
+            app.Button_sqrt.Icon = '\Icons\sqrt.png';
+            app.Button_tuiwei.Icon = '\Icons\退位.png';
             app.EditField.Value = '0';
             app.M = '0';
             app.N = '0';
