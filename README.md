@@ -11,5 +11,5 @@ Some private MATLAB-APP and some practices.
 课堂练习，最小二乘法曲线拟合
 
 ### GIF展示
-![简单展示]()
+
 
