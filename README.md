@@ -1,9 +1,7 @@
 # MATLAB-APP
 Some private MATLAB-APP and some practices.
 
-# Notice
-
-# 注意
+# Notice 注意
 该文件仅为个人平时练习备份
 
 # 内容——分类
